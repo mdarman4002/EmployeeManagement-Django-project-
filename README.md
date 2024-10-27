@@ -27,5 +27,8 @@ Testing & Debugging: Performed unit testing and manual testing to ensure the app
 Deployment on AWS EC2: Deployed the application on an AWS EC2 instance, configuring the server environment, installing necessary packages. Ensured smooth and continuous operation by handling server management, scaling, and security.
 
 
+## Project Front-end view
 ![Project front-end](https://github.com/mdarman4002/EmployeeManagement-Django-project-/blob/main/EmpMan-front-end.png)
+
+## Admin can add and update
 ![Project front-end](https://github.com/mdarman4002/EmployeeManagement-Django-project-/blob/main/Add-emp.png)
