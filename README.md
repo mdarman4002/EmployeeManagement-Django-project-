@@ -32,3 +32,6 @@ Deployment on AWS EC2: Deployed the application on an AWS EC2 instance, configur
 
 ## Admin can add and update
 ![Project front-end](https://github.com/mdarman4002/EmployeeManagement-Django-project-/blob/main/Add-emp.png)
+
+## Update employee
+![update-emp](https://github.com/mdarman4002/EmployeeManagement-Django-project-/blob/main/update-emp.png)
