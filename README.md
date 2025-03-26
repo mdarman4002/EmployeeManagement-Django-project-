@@ -1,3 +1,9 @@
+## AWS EC2 Deployment Command
+
+For detailed instructions on deploying the Employee Management project on AWS EC2, please refer to the following document:
+
+[AWS EC2 Deployment Command](https://github.com/mdarman4002/EmployeeManagement-Django-project-/blob/main/readme-AWS-EC2-%20Deployment%20command.md)
+
 # EmployeeManagement
 
 How to manage static files (e.g. images, JavaScript, CSS)  https://docs.djangoproject.com/en/5.1/howto/static-files/
